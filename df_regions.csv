@@ -1,0 +1,52 @@
+﻿state,division 1,region
+Connecticut,Division 1,1
+ Maine,Division 1,1
+ Massachusetts,Division 1,1
+ New Hampshire,Division 1,1
+ Rhode Island,Division 1,1
+ Vermont,Division 1,1
+New Jersey,Division 2,1
+New York,Division 2,1
+Pennsylvania,Division 2,1
+Illinois,Division 3,2
+ Indiana,Division 3,2
+ Michigan,Division 3,2
+ Ohio,Division 3,2
+Wisconsin,Division 3,2
+Iowa,Division 4,2
+ Kansas,Division 4,2
+ Minnesota,Division 4,2
+ Missouri,Division 4,2
+ Nebraska,Division 4,2
+ North Dakota,Division 4,2
+ South Dakota,Division 4,2
+Delaware,Division 5,3
+ Florida,Division 5,3
+ Georgia,Division 5,3
+ Maryland,Division 5,3
+ North Carolina,Division 5,3
+ South Carolina,Division 5,3
+ Virginia,Division 5,3
+ District of Columbia,Division 5,3
+West Virginia,Division 5,3
+Alabama,Division 6,3
+ Kentucky,Division 6,3
+ Mississippi,Division 6,3
+Tennessee,Division 6,3
+Arkansas,Division 7,3
+ Louisiana,Division 7,3
+ Oklahoma,Division 7,3
+Texas,Division 7,3
+Arizona,Division 8,4
+ Colorado,Division 8,4
+ Idaho,Division 8,4
+ Montana,Division 8,4
+ Nevada,Division 8,4
+ New Mexico,Division 8,4
+ Utah,Division 8,4
+Wyoming,Division 8,4
+Alaska,Division 9,4
+ California,Division 9,4
+ Hawaii,Division 9,4
+ Oregon,Division 9,4
+Washington,Division 9,4
